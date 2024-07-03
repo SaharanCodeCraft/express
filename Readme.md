@@ -4,7 +4,10 @@
 
 **This project has a [Code of Conduct][].**
 
+Manipal
+
 ## Table of contents
+
 
 * [Installation](#Installation)
 * [Features](#Features)
